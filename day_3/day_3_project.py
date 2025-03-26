@@ -23,7 +23,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 ''')
 print("Welcome  to Treasure Island.")
 print("Your mission is to find treasure.")
-choose = input("Choose Side: Left / Right : ").lower()
+choose = input("You're at a crossroad, where do you want to go? : Left / Right : ").lower()
 
 if choose == "left":
   choose_2 = input("Choose : Swim / Wait : ").lower()
@@ -43,3 +43,6 @@ if choose == "left":
   
 else:
   print("Fall into a hole. \nGame Over.")
+
+
+#  \' amit shegvidzlia teqstshi gamoviyenot apostrofi
