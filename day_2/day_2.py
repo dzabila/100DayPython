@@ -98,3 +98,5 @@ print(f"Your score is {score}")
 height = 1.8
 is_wining = True 
 print(f"Your score is = {score}, your height is {height}. You are winning is {is_wining}")
+
+print(int(3.8))
