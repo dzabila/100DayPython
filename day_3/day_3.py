@@ -11,7 +11,8 @@
 #     bill = 5
 #     print("Child tickets are 5$")
 #   elif age > 18:
-#     if(age >= 45 and age <= 55):
+#     if age >= 45 and age <= 55:
+#     if 45 <= age <= 55:
 #       bill = 0
 #       print("middle crysis people for free")
 #     else:
